@@ -20,16 +20,17 @@ for i in range(47):
     print(url+str(i))
     res = requests.get(url+str(i))
     soup = BeautifulSoup(res.text, "html.parser")
+    todofuken_get = soup.find_all("h3")[1].text
+    pattern = r'「(.+?)」'
+    todofuken = re.search(pattern , todofuken_get)[0].replace('「', '').replace('」', '')
     find = soup.find_all("li")
     for tempo in find:
         name = tempo.find(class_="store_name").text
         address = tempo.find(class_="store_address").text
-        pattern = '''(...??[都道府県])'''
-        todofuken = re.match(pattern , address)[0]
         address2 = address.replace(todofuken,'')
         location = str(tempo.find(class_="store_map")).replace('\n', '')
         detail = re.search('sid=\d+',str(tempo.find(class_="store_bt")).replace('\n', ''))[0]
-        detailurl = "https://location.am-all.net/alm/shop?gm=109&astep=0&" + detail
+        detailurl = "https://location.am-all.net/alm/shop?gm=96&astep=0&" + detail
         twitter = "https://twitter.com/intent/tweet?text=" + address + "%2C" + name
       
         pattern = '@.*&'
