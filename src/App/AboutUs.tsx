@@ -1,6 +1,5 @@
 import './AboutUs.scss';
 import config from '../config.json';
-import lastUpdateData from '../last_update.json'; // パスは実際のファイルの場所に合わせてください
 import { FaPlus } from 'react-icons/fa';
 import { useState, useEffect } from 'react';
 
