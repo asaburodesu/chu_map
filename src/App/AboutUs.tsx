@@ -8,7 +8,23 @@ const Content = () => {
   const [lastUpdate, setLastUpdate] = useState('');
 
   useEffect(() => {
-    setLastUpdate(lastUpdateData.last_update);
+    const fetchLastUpdate = async () => {
+      try {
+        const response = await fetch('https://asaburodesu.github.io/chu_map/last_update.json?timestamp=' + new Date().getTime(), {
+          cache: 'no-cache', // キャッシュを無効にする
+        });
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        const data = await response.json();
+        setLastUpdate(data.last_update);
+      } catch (error) {
+        console.error('Fetching last update failed:', error);
+        setLastUpdate('情報の取得に失敗しました'); // エラーメッセージを設定
+      }
+    };
+
+    fetchLastUpdate();
   }, []); // 最初にコンポーネントがマウントされたときに一度だけ実行
 
   const clickHandler = () => {
