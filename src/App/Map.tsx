@@ -76,7 +76,7 @@ const Content = (props: Props) => {
       mapObject.addSource('shops', {
         type: 'geojson',
         data: geojson,
-        cluster: true,
+        cluster: false,
         clusterMaxZoom: 14,
         clusterRadius: 25,
       })
