@@ -47,7 +47,7 @@ const Content = () => {
         <h2>他機種マップ</h2>
         <p><a href="https://asaburodesu.github.io/geki_map/" target='_blank' rel="noreferrer">オンゲキ設置店舗マップ</a></p>
         <p><a href="https://asaburodesu.github.io/mai_map/" target='_blank' rel="noreferrer">maimai設置店舗マップ</a></p>
-
+        <p><a href="https://asaburodesu.github.io/imas_map/" target='_blank' rel="noreferrer">ツアマス設置店舗マップ</a></p>
         {config.form_url?
           <>
             <h2>データの更新について</h2>
