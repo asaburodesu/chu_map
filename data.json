@@ -32,19 +32,6 @@
             "",
             "北海道",
             "",
-            "43.0545356",
-            "141.354524",
-            "ラウンドワン札幌すすきの店",
-            "札幌市中央区南五条西3-6-1",
-            "",
-            "https://twitter.com/intent/tweet?text=北海道札幌市中央区南五条西3-6-1ラウンドワン札幌すすきの店",
-            "https://location.am-all.net/alm/shop?gm=109&astep=0&sid=21155",
-            ""
-        ],
-        [
-            "",
-            "北海道",
-            "",
             "43.06755206891484",
             "141.35270916508182",
             "東急百貨店さっぽろアミューズパーク",
@@ -52,6 +39,19 @@
             "",
             "https://twitter.com/intent/tweet?text=北海道札幌市中央区北４条西２−１東急百貨店さっぽろ店９階東急百貨店さっぽろアミューズパーク",
             "https://location.am-all.net/alm/shop?gm=109&astep=0&sid=27416",
+            ""
+        ],
+        [
+            "",
+            "北海道",
+            "",
+            "43.0545356",
+            "141.354524",
+            "ラウンドワン札幌すすきの店",
+            "札幌市中央区南五条西3-6-1",
+            "",
+            "https://twitter.com/intent/tweet?text=北海道札幌市中央区南五条西3-6-1ラウンドワン札幌すすきの店",
+            "https://location.am-all.net/alm/shop?gm=109&astep=0&sid=21155",
             ""
         ],
         [
@@ -188,19 +188,6 @@
             "",
             "北海道",
             "",
-            "43.09234016092269",
-            "141.40699743068853",
-            "キャッツアイ東苗穂店",
-            "札幌市東区東苗穂６条２丁目１−２５",
-            "",
-            "https://twitter.com/intent/tweet?text=北海道札幌市東区東苗穂６条２丁目１−２５キャッツアイ東苗穂店",
-            "https://location.am-all.net/alm/shop?gm=109&astep=0&sid=28992",
-            ""
-        ],
-        [
-            "",
-            "北海道",
-            "",
             "43.07983641819684",
             "141.40381226137697",
             "ソユーゲームフィールド苗穂店",
@@ -221,6 +208,19 @@
             "",
             "https://twitter.com/intent/tweet?text=北海道札幌市東区北４２条東７−１−１　嶋ビル２階アドアーズ札幌北４２条",
             "https://location.am-all.net/alm/shop?gm=109&astep=0&sid=25281",
+            ""
+        ],
+        [
+            "",
+            "北海道",
+            "",
+            "43.09234016092269",
+            "141.40699743068853",
+            "キャッツアイ東苗穂店",
+            "札幌市東区東苗穂６条２丁目１−２５",
+            "",
+            "https://twitter.com/intent/tweet?text=北海道札幌市東区東苗穂６条２丁目１−２５キャッツアイ東苗穂店",
+            "https://location.am-all.net/alm/shop?gm=109&astep=0&sid=28992",
             ""
         ],
         [
@@ -559,19 +559,6 @@
             "",
             "https://twitter.com/intent/tweet?text=北海道室蘭市東町４丁目３１番２号１階ＧｉＧＯ室蘭",
             "https://location.am-all.net/alm/shop?gm=109&astep=0&sid=28999",
-            ""
-        ],
-        [
-            "",
-            "北海道",
-            "",
-            "42.35352635249717",
-            "141.01454196745908",
-            "ＢＩＧＢＡＮＧ室蘭",
-            "室蘭市中島本町２−８−１",
-            "",
-            "https://twitter.com/intent/tweet?text=北海道室蘭市中島本町２−８−１ＢＩＧＢＡＮＧ室蘭",
-            "https://location.am-all.net/alm/shop?gm=109&astep=0&sid=25305",
             ""
         ],
         [
@@ -1618,6 +1605,19 @@
             "",
             "秋田県",
             "",
+            "39.150485",
+            "140.469426",
+            "トム・ソーヤのなかまたち湯沢店",
+            "湯沢市字上萩生田162イオンスーパーセンター湯沢店内",
+            "",
+            "https://twitter.com/intent/tweet?text=秋田県湯沢市字上萩生田162イオンスーパーセンター湯沢店内トム・ソーヤのなかまたち湯沢店",
+            "https://location.am-all.net/alm/shop?gm=109&astep=0&sid=23190",
+            ""
+        ],
+        [
+            "",
+            "秋田県",
+            "",
             "40.232598",
             "140.3800876",
             "ゲームフィールド鷹巣店",
@@ -2099,19 +2099,6 @@
             "",
             "茨城県",
             "",
-            "36.3694663",
-            "140.4745213",
-            "ＧｉＧＯ水戸",
-            "水戸市宮町１−７−４４コムボックス３１０",
-            "",
-            "https://twitter.com/intent/tweet?text=茨城県水戸市宮町１−７−４４コムボックス３１０ＧｉＧＯ水戸",
-            "https://location.am-all.net/alm/shop?gm=109&astep=0&sid=25759",
-            ""
-        ],
-        [
-            "",
-            "茨城県",
-            "",
             "36.3714779",
             "140.4774261",
             "スタジオプリモ水戸店",
@@ -2132,6 +2119,19 @@
             "",
             "https://twitter.com/intent/tweet?text=茨城県水戸市宮町１丁目７番３３号水戸オーパ７階ＧｉＧＯ水戸オーパ",
             "https://location.am-all.net/alm/shop?gm=109&astep=0&sid=20003",
+            ""
+        ],
+        [
+            "",
+            "茨城県",
+            "",
+            "36.3694663",
+            "140.4745213",
+            "ＧｉＧＯ水戸",
+            "水戸市宮町１−７−４４コムボックス３１０",
+            "",
+            "https://twitter.com/intent/tweet?text=茨城県水戸市宮町１−７−４４コムボックス３１０ＧｉＧＯ水戸",
+            "https://location.am-all.net/alm/shop?gm=109&astep=0&sid=25759",
             ""
         ],
         [
@@ -2509,19 +2509,6 @@
             "",
             "https://twitter.com/intent/tweet?text=茨城県筑西市神分４７２フリスポ下館",
             "https://location.am-all.net/alm/shop?gm=109&astep=0&sid=20769",
-            ""
-        ],
-        [
-            "",
-            "茨城県",
-            "",
-            "35.9183324",
-            "140.4848113",
-            "ＧｉＧＯ霞ヶ浦",
-            "稲敷市西代１４７３−１",
-            "",
-            "https://twitter.com/intent/tweet?text=茨城県稲敷市西代１４７３−１ＧｉＧＯ霞ヶ浦",
-            "https://location.am-all.net/alm/shop?gm=109&astep=0&sid=29078",
             ""
         ],
         [
@@ -7319,6 +7306,19 @@
             "",
             "https://twitter.com/intent/tweet?text=石川県加賀市箱宮町ヲ1-1バイパスレジャーランド加賀店",
             "https://location.am-all.net/alm/shop?gm=109&astep=0&sid=27516",
+            ""
+        ],
+        [
+            "",
+            "石川県",
+            "",
+            "37.06719494045102",
+            "136.90699148555836",
+            "ゲームセンターベティ",
+            "七尾市舟尾町ウ-38",
+            "",
+            "https://twitter.com/intent/tweet?text=石川県七尾市舟尾町ウ-38ゲームセンターベティ",
+            "https://location.am-all.net/alm/shop?gm=109&astep=0&sid=27601",
             ""
         ],
         [
